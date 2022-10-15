@@ -15,7 +15,7 @@ As a Developer its important to make sure all websites, applications and code is
 
 ##Application 
 
-![screenshot of applicaton](./urban-octo-telegram-main/Develop/assets/images/screenshot.png)
+![screenshot of applicaton](./assets/images/screenshot.png)
 
 ## Technologies
 * HTML 

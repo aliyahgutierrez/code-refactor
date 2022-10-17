@@ -23,4 +23,4 @@ As a Developer its important to make sure all websites, applications and code is
 * HTML Accessibility 
 
 ## Questions
-If you have any questions please get in contact[Aliyah](https://github.com/aliyahgutierrez) or directly to my [email](gutierrezaliyah@gmail.com)
+If you have any questions please get in contact [Aliyah](https://github.com/aliyahgutierrez) or directly to my  [email](gutierrezaliyah@gmail.com)

@@ -13,11 +13,11 @@ As a Developer its important to make sure all websites, applications and code is
 * Technologies 
 * Questions 
 
-##Application 
+## Application 
 
 ![screenshot of applicaton](./assets/images/screenshot.png)
 
-##Link to Application 
+## Link to Application 
 [Horiseon](https://aliyahgutierrez.github.io/code-refactor/)
 
 ## Technologies
